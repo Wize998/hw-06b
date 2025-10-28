@@ -7,4 +7,3 @@ Small Python project for testing and fixing a buggy `classifyTriangle()` impleme
 - Run tests against the **initial (buggy)** implementation and record results.
 - Fix logic defects in `Triangle.py`, re-run the **same** tests, and record results.
 
-## Repo Structure
